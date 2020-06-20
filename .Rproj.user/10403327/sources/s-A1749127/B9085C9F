@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592679747452.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2035893251",
+    "id" : "B9085C9F",
+    "lastKnownWriteTime" : 1592679775,
+    "last_content_update" : 1592679775864,
+    "path" : "C:/Users/Kalung/Desktop/helloe-world/hello.Rmd",
+    "project_path" : "hello.Rmd",
+    "properties" : {
+        "cursorPosition" : "11,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
